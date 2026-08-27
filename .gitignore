@@ -1,0 +1,17 @@
+# Compiled files
+*.exe
+*.obj
+*.o
+
+# Data files
+*.dat
+
+# Test files
+*.txt
+*.bat
+
+# VS Code
+.vscode/
+
+# PDF files
+*.pdf
